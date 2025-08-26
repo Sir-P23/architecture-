@@ -80,7 +80,7 @@ nav a{
 }
 
 .houses div{
-    width: 285px;
+    width: 270px;
 }
 
 .summer{
@@ -139,7 +139,7 @@ nav a{
 }
 
 .arc-detail{
-    width: 285px;
+    width: 270px;
 }
 
 .arc-detail img{
@@ -168,25 +168,6 @@ nav a{
     background-color: #00000035;
 }
 
-/* .overlay{
-    height: 0px;
-    width: 100%;
-    background-color: #00000082;
-    color: white;
-    position: relative;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    bottom: 0;
-    transition: 3s;
-} */
-
-/* .arc-detail:hover .overlay{
-    height: 180px;
-    padding:0 10px 10px;
-} */
-
-/* cont4 */
 .cont4{
     width: 100%;
     padding: 3%;
